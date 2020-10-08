@@ -15,7 +15,7 @@
 
   - 有多种动画状态（idle, walk, run, jump-up, jump-float, jump-down）
 
-    ![pickup.gif]()
+    ![pickup.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/pickup.gif)
 
 - 蘑菇
 
@@ -25,7 +25,7 @@
 
   - 紫蘑菇：吃了之后会跳一下
 
-    ![mushrooms.gif]()
+    ![mushrooms.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/mushrooms.gif)
 
 - 小怪物：
 
@@ -33,7 +33,7 @@
 
   - 小怪物也有多种动画状态
 
-    ![follower.gif]()
+    ![follower.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/follower.gif)
 
 ### Controller
 
@@ -44,7 +44,7 @@
   - 使用**滚轮**控制相机远近
 - 键盘
   - **A/D**： 控制相机向左/右旋转
-  - **I/B：**控制背包系统UI的打开和关闭
+  - **I/B：**控制背包系统UI的打开和关闭（第一次打开的时候可能会有一点卡……）
   - 按下**esc**退出游戏
 
 ### Camera
@@ -55,4 +55,4 @@
 
 - 鼠标滚轮控制相机远近
 
-  ![camera.gif]()
+  ![camera.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/camera.gif)
