@@ -15,7 +15,7 @@
 
   - 有多种动画状态（idle, walk, run, jump-up, jump-float, jump-down）
 
-    ![pickup.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/pickup.gif)
+    ![pickup.gif](https://github.com/ptpt-y/GameEngine/blob/master/WK2_3C/pics/pickup.gif)
 
 - 蘑菇
 
@@ -25,7 +25,7 @@
 
   - 紫蘑菇：吃了之后会跳一下
 
-    ![mushrooms.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/mushrooms.gif)
+    ![mushrooms.gif](https://github.com/ptpt-y/GameEngine/blob/master/WK2_3C/pics/mushrooms.gif)
 
 - 小怪物：
 
@@ -33,7 +33,7 @@
 
   - 小怪物也有多种动画状态
 
-    ![follower.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/follower.gif)
+    ![follower.gif](https://github.com/ptpt-y/GameEngine/blob/master/WK2_3C/pics/follower.gif)
 
 ### Controller
 
@@ -55,4 +55,4 @@
 
 - 鼠标滚轮控制相机远近
 
-  ![camera.gif](https://github.com/ptpt-y/GameEngine/blob/master/3C-homework/pics/camera.gif)
+  ![camera.gif](https://github.com/ptpt-y/GameEngine/blob/master/WK2_3C/pics/camera.gif)
