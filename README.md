@@ -7,4 +7,8 @@ For IMDT-GameEngine Class, 2020Fall
 - [x] 04.碰撞和物理 (二)【A】：[布料模拟和物理破坏](https://github.com/ptpt-y/GameEngine/tree/master/WK4_Cloth&Break)
 - [x] 05.图形与渲染 (一)【B】：[电路板材质和遮挡剔除](https://github.com/ptpt-y/GameEngine/tree/master/WK5_Texture&Occlusion)
 - [x] 06.图形与渲染 (二)【A】：[场景效果](https://github.com/ptpt-y/GameEngine/tree/master/WK6_Scene)
+- [ ] 07.骨骼模型和动作
+- [x] 08.粒子和特效【A】：[卡丁车demo粒子特效](https://github.com/ptpt-y/GameEngine/tree/master/WK8_ParticalSystem)
+- [ ] 09.音频和声音
+- [ ] 10.人机界面交互
 
