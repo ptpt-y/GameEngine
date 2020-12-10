@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1749424733	Play_UI_Click			\Default Work Unit\Play_UI_Click	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	286908215	UI_Click	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\camera-click-nikon_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_Click		90404
+

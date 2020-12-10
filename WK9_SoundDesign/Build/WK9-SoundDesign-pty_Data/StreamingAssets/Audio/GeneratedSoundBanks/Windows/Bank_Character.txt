@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	992244	Play_ShotGun			\Default Work Unit\Play_ShotGun	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	594607321	shotgun-2	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\shotgun-2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ShotGun\shotgun-2		67544
+	629332614	shotgun-1	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\shotgun-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ShotGun\shotgun-1		85982
+	733290641	shotgun-3	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\shotgun-3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ShotGun\shotgun-3		82528
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{25896B52-7DD7-4459-910C-609DFC026373}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{25896B52-7DD7-4459-910C-609DFC026373}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_UI_Click" ID="{C3FAC8FD-1440-420F-9B9D-79E44A2CAD37}">
+					<ChildrenList>
+						<Action Name="" ID="{CCF65331-1B3D-45FB-9690-F2FA9363948A}" ShortID="1070017692">
+							<PropertyList>
+								<Property Name="FadeTime" Type="Real64" Value="2.5"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="UI_Click" ID="{2F0A6FAB-101E-4F25-B65F-653472C9F7A2}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Footsteps" ID="{A2F21625-C06D-453D-BEEE-2B0B6884CCC8}">
+					<ChildrenList>
+						<Action Name="" ID="{EF1B7985-B4E1-4CB8-A64E-73FC51CD2C3B}" ShortID="89700557">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{5A17955F-4389-4D37-9C7F-443BF9D73C2F}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_ShotGun" ID="{D37E4A69-D391-4F1E-8844-7201157139AF}">
+					<ChildrenList>
+						<Action Name="" ID="{D34F0E3D-31DB-4D3A-9054-CE4F77D28E10}" ShortID="662351383">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ShotGun" ID="{03DEE91F-5C29-4E55-8FD6-6182A5D731AC}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Voice" ID="{DCCE8159-D21D-406B-B0F0-28CAE3E763CB}">
+					<ChildrenList>
+						<Action Name="" ID="{25B0074B-9C9B-4467-8615-CAFC801C5682}" ShortID="342552505">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Voice" ID="{2EC4FC1C-20CF-4971-A5DD-098E04AFB810}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Ambience" ID="{E1544188-B8CF-4C91-BD40-1FF45B63395D}">
+					<ChildrenList>
+						<Action Name="" ID="{0050C2A4-4467-4541-A2FB-450B3968FE29}" ShortID="173697052">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambience" ID="{D15E9BFF-3B2D-4CDC-8813-F3C683F0A46C}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Ambience" ID="{C7A5BAE4-7D41-413C-A2B4-51A4DB265AD7}">
+					<ChildrenList>
+						<Action Name="" ID="{A7373FA4-C158-4968-AED6-0F91E50BBCE8}" ShortID="1007802104">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ambience" ID="{D15E9BFF-3B2D-4CDC-8813-F3C683F0A46C}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Stop_Footsteps" ID="{65644568-E294-40F7-B1CE-126FA9561D71}">
+					<ChildrenList>
+						<Action Name="" ID="{213FC32A-C42D-4E72-9D19-C1F92F0925E4}" ShortID="124606631">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Footsteps" ID="{5A17955F-4389-4D37-9C7F-443BF9D73C2F}" WorkUnitID="{12929809-CAF1-4FF8-862A-FA8A6CC805EA}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

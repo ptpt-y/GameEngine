@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>D:\IMDT\GameEngine\Engine-HW9\</ProjectRoot>
+		<SourceFilesRoot>D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>D:\IMDT\GameEngine\Engine-HW9\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>D:\IMDT\GameEngine\Engine-HW9\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="161808754" Language="SFX">
+			<ShortName>ambience-rain-on-windows-interior-b.wav</ShortName>
+			<Path>SFX\ambience-rain-on-windows-interior-b_D79FB2B7.wem</Path>
+		</File>
+		<File Id="847036156" Language="SFX">
+			<ShortName>ambience-wind-soft-crickets.wav</ShortName>
+			<Path>SFX\ambience-wind-soft-crickets_D79FB2B7.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1551306167" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\UI</ObjectPath>
+			<ShortName>UI</ShortName>
+			<Path>UI.bnk</Path>
+			<IncludedEvents>
+				<Event Id="278617630" Name="Play_Ambience" ObjectPath="\Events\Default Work Unit\Play_Ambience" DurationType="Infinite"/>
+				<Event Id="3854155799" Name="Play_Footsteps" ObjectPath="\Events\Default Work Unit\Play_Footsteps" DurationType="Infinite"/>
+				<Event Id="1749424733" Name="Play_UI_Click" ObjectPath="\Events\Default Work Unit\Play_UI_Click" DurationType="OneShot" DurationMin="0.512132" DurationMax="0.512132"/>
+				<Event Id="1642680936" Name="Play_Voice" ObjectPath="\Events\Default Work Unit\Play_Voice" DurationType="OneShot" DurationMin="0.766258" DurationMax="0.801088"/>
+				<Event Id="2477713992" Name="Stop_Ambience" ObjectPath="\Events\Default Work Unit\Stop_Ambience" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2963349357" Name="Stop_Footsteps" ObjectPath="\Events\Default Work Unit\Stop_Footsteps" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="161808754"/>
+				<File Id="847036156"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="49886881" Language="SFX">
+					<ShortName>number-3.wav</ShortName>
+					<Path>SFX\number-3_10C4C929.wem</Path>
+				</File>
+				<File Id="213014587" Language="SFX">
+					<ShortName>Footstep_4.wav</ShortName>
+					<Path>SFX\Footstep_4_10C4C929.wem</Path>
+				</File>
+				<File Id="286908215" Language="SFX">
+					<ShortName>camera-click-nikon.wav</ShortName>
+					<Path>SFX\camera-click-nikon_10C4C929.wem</Path>
+				</File>
+				<File Id="392519656" Language="SFX">
+					<ShortName>Footstep_1.wav</ShortName>
+					<Path>SFX\Footstep_1_10C4C929.wem</Path>
+				</File>
+				<File Id="443500721" Language="SFX">
+					<ShortName>number-2.wav</ShortName>
+					<Path>SFX\number-2_10C4C929.wem</Path>
+				</File>
+				<File Id="482545315" Language="SFX">
+					<ShortName>Footstep_3.wav</ShortName>
+					<Path>SFX\Footstep_3_10C4C929.wem</Path>
+				</File>
+				<File Id="751104652" Language="SFX">
+					<ShortName>Footstep_2.wav</ShortName>
+					<Path>SFX\Footstep_2_10C4C929.wem</Path>
+				</File>
+				<File Id="766613956" Language="SFX">
+					<ShortName>number-1.wav</ShortName>
+					<Path>SFX\number-1_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1948781723" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Bank_Character</ObjectPath>
+			<ShortName>Bank_Character</ShortName>
+			<Path>Bank_Character.bnk</Path>
+			<IncludedEvents>
+				<Event Id="992244" Name="Play_ShotGun" ObjectPath="\Events\Default Work Unit\Play_ShotGun" MaxAttenuation="100.000000" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="594607321" Language="SFX">
+					<ShortName>shotgun-2.wav</ShortName>
+					<Path>SFX\shotgun-2_10C4C929.wem</Path>
+				</File>
+				<File Id="629332614" Language="SFX">
+					<ShortName>shotgun-1.wav</ShortName>
+					<Path>SFX\shotgun-1_10C4C929.wem</Path>
+				</File>
+				<File Id="733290641" Language="SFX">
+					<ShortName>shotgun-3.wav</ShortName>
+					<Path>SFX\shotgun-3_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

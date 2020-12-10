@@ -1,0 +1,25 @@
+Event	ID	Name			Wwise Object Path	Notes
+	278617630	Play_Ambience			\Default Work Unit\Play_Ambience	
+	1642680936	Play_Voice			\Default Work Unit\Play_Voice	
+	1749424733	Play_UI_Click			\Default Work Unit\Play_UI_Click	
+	2477713992	Stop_Ambience			\Default Work Unit\Stop_Ambience	
+	2963349357	Stop_Footsteps			\Default Work Unit\Stop_Footsteps	
+	3854155799	Play_Footsteps			\Default Work Unit\Play_Footsteps	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4122698001	WindVolume			\Default Work Unit\WindVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	49886881	number-3	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\number-3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\number-3		135232
+	213014587	Footstep_4	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\Footstep_4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footstep_4		7080
+	286908215	UI_Click	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\camera-click-nikon_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI_Click		90404
+	392519656	Footstep_1	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\Footstep_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footstep_1		6174
+	443500721	number-2	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\number-2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\number-2		139328
+	482545315	Footstep_3	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\Footstep_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footstep_3		5848
+	751104652	Footstep_2	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\Footstep_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Footsteps\Footstep_2		6706
+	766613956	number-1	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\number-1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\number-1		141376
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	161808754	ambience-rain-on-windows-interior-b	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\ambience-rain-on-windows-interior-b_D79FB2B7.wem	161808754.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience-rain-on-windows-interior-b	
+	847036156	ambience-wind-soft-crickets	D:\IMDT\GameEngine\Engine-HW9\.cache\Windows\SFX\ambience-wind-soft-crickets_D79FB2B7.wem	847036156.wem	\Actor-Mixer Hierarchy\Default Work Unit\Ambience\ambience-wind-soft-crickets	
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{70A7BC14-1E28-49A1-88FD-9F5DB34710E6}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{70A7BC14-1E28-49A1-88FD-9F5DB34710E6}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Bank_Character" ID="{B511CECE-AAF0-4844-B730-8E13A668A6D8}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_ShotGun" ID="{D37E4A69-D391-4F1E-8844-7201157139AF}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="UI" ID="{7CDA9541-3179-47AA-A333-6EA680B09F7F}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Voice" ID="{DCCE8159-D21D-406B-B0F0-28CAE3E763CB}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Footsteps" ID="{65644568-E294-40F7-B1CE-126FA9561D71}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Stop_Ambience" ID="{C7A5BAE4-7D41-413C-A2B4-51A4DB265AD7}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_UI_Click" ID="{C3FAC8FD-1440-420F-9B9D-79E44A2CAD37}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Footsteps" ID="{A2F21625-C06D-453D-BEEE-2B0B6884CCC8}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Play_Ambience" ID="{E1544188-B8CF-4C91-BD40-1FF45B63395D}" WorkUnitID="{25896B52-7DD7-4459-910C-609DFC026373}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

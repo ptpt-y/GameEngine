@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="94">
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607523187" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1607500929" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1607497314" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1607497299" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Attenuations\Default Work Unit.wwu" DateLow="1607514273" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Audio Devices\Default Work Unit.wwu" DateLow="1607500929" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Control Surface Sessions\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Conversion Settings\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1607497299" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory Auro Headphone.wwu" DateLow="1607497315" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory Effects.wwu" DateLow="1607497299" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Box Modeler.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Delay.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Dynamics.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Filters.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1607497346" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Effects\Factory McDSP Effects.wwu" DateLow="1607497323" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Engine-HW9.Peng Tingyu.wsettings" DateLow="1607523199" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Engine-HW9.wproj" DateLow="1607501846" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Events\Default Work Unit.wwu" DateLow="1607522027" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Game Parameters\Default Work Unit.wwu" DateLow="1607518186" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Game Parameters\Factory Motion.wwu" DateLow="1607497306" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1607497314" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607513935" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Mixing Sessions\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Modulators\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Presets\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Queries\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Queries\Factory Queries.wwu" DateLow="1607497299" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\SoundBanks\Default Work Unit.wwu" DateLow="1607522027" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1607522027" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\States\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Switches\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Triggers\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Virtual Acoustics\Default Work Unit.wwu" DateLow="1607499518" DateHigh="0"/>
+	<ValidationCacheItem File="D:\IMDT\GameEngine\Engine-HW9\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1607497307" DateHigh="0"/>
+</ValidationCache>
