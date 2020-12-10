@@ -9,6 +9,6 @@ For IMDT-GameEngine Class, 2020Fall
 - [x] 06.图形与渲染 (二)【A】：[场景效果](https://github.com/ptpt-y/GameEngine/tree/master/WK6_Scene)
 - [ ] 07.骨骼模型和动作
 - [x] 08.粒子和特效【A】：[卡丁车demo粒子特效](https://github.com/ptpt-y/GameEngine/tree/master/WK8_ParticalSystem)
-- [ ] 09.音频和声音
-- [ ] 10.人机界面交互
+- [x] 09.音频和声音【A】：[Wwise+Unity Demo](https://github.com/ptpt-y/GameEngine/tree/master/WK9_SoundDesign)
+- [ ] 10.人机界面交互【A】：
 
